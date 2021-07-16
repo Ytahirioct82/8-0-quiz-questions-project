@@ -6,6 +6,7 @@
 Arrays in the other hand store the data in an ordered collection in which the data can be accessed using a numerical index.
 They are also mutable and data can be modified at any index.
 
+---
 
 **Q:** How do you creat an Array with nested objects? Please give example.
 
@@ -22,10 +23,13 @@ age: 22},
 age: 56},]
 ```
 
+---
+
 **Q:** How can you accese the value of an array?
  
  > **A:** You can access an array's value by its index position. Each index position in array refers to a memory address in which your values are saved.
 
+---
 
 **Q:** How can you accese the properties of an object?
 
