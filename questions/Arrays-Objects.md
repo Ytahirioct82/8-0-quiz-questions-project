@@ -25,12 +25,12 @@ age: 56},]
 
 ---
 
-**Q:** How can you accese the value of an array?
+**Q:** How can you access the value of an array?
  
  > **A:** You can access an array's value by its index position. Each index position in array refers to a memory address in which your values are saved.
 
 ---
 
-**Q:** How can you accese the properties of an object?
+**Q:** How can you access the properties of an object?
 
  > **A:** You can access the properties of an object by dot property accessor or brackets property access.
